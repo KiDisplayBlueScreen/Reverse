@@ -1,0 +1,20 @@
+#pragma once
+#include "stdafx.h"
+#include <iostream>
+#include <Windows.h>
+PBYTE Func00463080(PBYTE Source, PBYTE Dest, int Length);
+VOID Func00462F84(PDWORD Source, PBYTE Dest, int LoopNum);
+VOID Func00463008(PDWORD Input, PDWORD Output);
+VOID Func0046281C(PDWORD Source, PDWORD Dest);
+VOID Func004626D8(DWORD Param1, PDWORD Param2, int Param3, DWORD Param4, PDWORD Param5, DWORD Param6, DWORD Param7);
+VOID Func00462740(DWORD Param1, PDWORD Param2, int Param3, DWORD Param4, PDWORD Param5, DWORD Param6, DWORD Param7);
+VOID Func0046270C(DWORD Param1, PDWORD Param2, int Param3, DWORD Param4, PDWORD Param5, DWORD Param6, DWORD Param7);
+VOID Func00462774(DWORD Param1, PDWORD Param2, int Param3, DWORD Param4, PDWORD Param5, DWORD Param6, DWORD Param7);
+DWORD Func004626AC(DWORD ECX, DWORD EDX, DWORD EAX);
+DWORD Func004626A4(DWORD ECX, DWORD EDX, DWORD EAX);
+DWORD Func00462698(DWORD ECX, DWORD EDX, DWORD EAX);
+DWORD Func0046268C(DWORD ECX, DWORD EDX, DWORD EAX);
+VOID Func004626B8(PDWORD EAX, DWORD EDX);
+VOID Func004627DC(PBYTE Source, PBYTE Dest, int LoopNum);
+int Func004627A8(PBYTE EAX, PDWORD EDX, int Loop);
+int Strcopy(PBYTE StartAddress, PBYTE Str, int CopyNum);

@@ -1,0 +1,7 @@
+﻿  Reverse1.cpp
+c:\users\hasee\source\repos\reverse1\reverse1\reverse1.cpp(36): warning C4018: '>': signed/unsigned mismatch
+c:\users\hasee\source\repos\reverse1\reverse1\reverse1.cpp(260): warning C4552: '>>': operator has no effect; expected operator with side-effect
+c:\users\hasee\source\repos\reverse1\reverse1\reverse1.cpp(295): warning C4333: '>>': right shift by too large amount, data loss
+c:\users\hasee\source\repos\reverse1\reverse1\reverse1.cpp(298): warning C4333: '>>': right shift by too large amount, data loss
+c:\users\hasee\source\repos\reverse1\reverse1\reverse1.cpp(301): warning C4333: '>>': right shift by too large amount, data loss
+  Reverse1.vcxproj -> C:\Users\hasee\source\repos\Reverse1\Debug\Reverse1.exe
